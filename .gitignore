@@ -1,0 +1,5 @@
+# ignoring files with sensitive information
+psiturkconfig
+awscre
+awsconfig
+sshconfig
