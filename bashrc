@@ -190,4 +190,5 @@ export HDF5_DIR=/usr/lib/x86_64-linux-gnu/hdf5/serial/
 export PATH=$PATH:$HOME/matlab/bin
 
 # printing
+mkdir -p ~/Print
 inoticoming ~/Print ~/Computer/scripts/printpdf {} ~/Print \;
