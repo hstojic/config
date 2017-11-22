@@ -176,6 +176,18 @@ prompt
 # env vars
 # ----
 
+# editor
 export EDITOR=subl
+
+# python
 export WORKON_HOME=~/.pyenv
 source /usr/local/bin/virtualenvwrapper.sh
+# psychopy
+export HDF5_DIR=/usr/lib/x86_64-linux-gnu/hdf5/serial/
+
+
+# matlab
+export PATH=$PATH:$HOME/matlab/bin
+
+# printing
+inoticoming ~/Print ~/Computer/scripts/printpdf {} ~/Print \;
